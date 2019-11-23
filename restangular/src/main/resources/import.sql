@@ -1,0 +1,2 @@
+INSERT INTO employees(email_address, first_name , last_name) VALUES ('luis_12_835@hotmail.com', 'Luisin', 'Maza');
+INSERT INTO employees(email_address, first_name , last_name) VALUES ('lmaza@gmail.com', 'Enrique', 'Maza');
